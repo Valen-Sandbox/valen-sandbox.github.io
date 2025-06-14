@@ -68,7 +68,7 @@ h1 {
   text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.8);
 }
 .under-nav {
-  right: 445px;
+  right: 435px;
   bottom: 0;
   position: absolute;
   width: 100%;
@@ -79,7 +79,7 @@ h1 {
   right: 0;
   bottom: 0;
   position: absolute;
-  width: 445px;
-  height: 111px;
+  width: 435px;
+  height: 101px;
   background-color: rgba(0, 0, 0, 0.5);
 }
